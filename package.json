@@ -1,0 +1,32 @@
+{
+  "name": "whatsapp-reminder-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with customizable recurring reminders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "mathjs": "^14.6.0",
+    "openai": "^5.12.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "reminders",
+    "scheduler",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

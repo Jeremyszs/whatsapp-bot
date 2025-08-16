@@ -1,0 +1,30 @@
+{
+  "62895332029657@c.us": [],
+  "120363319240377712@g.us": [
+    {
+      "id": "https://1755273046244lrmk3fagi.sz",
+      "type": "monthly",
+      "date": 12,
+      "time": "07:00",
+      "message": "bayar kos",
+      "createdAt": "2025-08-15T15:50:46.244Z"
+    },
+    {
+      "id": "https://1755273058442vwrspg13k.sz",
+      "type": "monthly",
+      "date": 12,
+      "time": "17:00",
+      "message": "bayar kos",
+      "createdAt": "2025-08-15T15:50:58.442Z"
+    }
+  ],
+  "120363041293020181@g.us": [
+    {
+      "id": "https://1755273184490aqlbqfd65.sz",
+      "type": "daily",
+      "time": "19:00",
+      "message": "main",
+      "createdAt": "2025-08-15T15:53:04.490Z"
+    }
+  ]
+}
